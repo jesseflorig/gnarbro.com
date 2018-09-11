@@ -1,0 +1,22 @@
+{
+  "name": "gnarbro.com",
+  "version": "1.0.0",
+  "description": "gnarbro.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseflorig/gnarbro.com.git"
+  },
+  "keywords": [
+    "gnarbro"
+  ],
+  "author": "Jesse Florig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesseflorig/gnarbro.com/issues"
+  },
+  "homepage": "https://github.com/jesseflorig/gnarbro.com#readme"
+}
